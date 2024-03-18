@@ -62,7 +62,7 @@ To set the **Minimum API version** in the portal:
 1. In the [Azure portal](https://portal.azure.com), navigate to your API Management instance.
 1. In the left menu, under **Deployment + infrastructure**, select **Management API**.
 1. Select the **Management API settings** tab.
-1. Under **Prevent users with read-only permissions from accessing service secrets**, select **Yes**. The **Minimum API version** appears.
+1. Under **Enforce minumum API version**, select **Yes**. The **Minimum API version** appears.
 1. Select **Save**.
    
 ## More information
